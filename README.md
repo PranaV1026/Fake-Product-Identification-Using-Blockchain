@@ -1,2 +1,2 @@
-# Fake-Product-Identification-Using-Blockchain
+# SecureProduct by BLOCKCHAIN
 Manufacturers use fake product identification applications using blockchain applications to create their own asset digital footprints containing valuable asset information for their products/assets, and unique tokens with unique cryptographic hash values. is the owner of the real asset that generates the QR code for Assets include this, conclusive proof that genuine products are being delivered to all merchants and customers, that the products are authentic and that they are consuming products of authenticated value. 
